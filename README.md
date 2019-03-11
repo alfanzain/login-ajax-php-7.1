@@ -2,6 +2,9 @@
 
 Login with Jquery Ajax and PHP server-side.
 
+## Story
+https://medium.com/@alfanzain/latihankoding-php-login-ajax-sederhana-1229117ad22d (Indonesia)
+
 ## Installation
 
 Download and extract to htdocs folder.
